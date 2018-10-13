@@ -4,6 +4,9 @@ A "game" that allows users to connect to a shared game board with obstacles and 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3rGcEy7MA38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+[![Watch the demo](https://img.youtube.com/vi/3rGcEy7MA38/hqdefault.jpg)](https://youtu.be/3rGcEy7MA38)
+
+
 ## Implementation details
 
 * it is using `A*` algorithm to find the shortest path from a start point to an end point

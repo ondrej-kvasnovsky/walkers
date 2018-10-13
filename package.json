@@ -1,0 +1,17 @@
+{
+  "name": "empty-example",
+  "version": "1.0.0",
+  "main": "public/game.js",
+  "scripts": {
+    "test": "node shortest_path.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "socket.io": "^2.1.1"
+  }
+}

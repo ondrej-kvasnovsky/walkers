@@ -1,8 +1,7 @@
 # Walkers
 
 A "game" that allows users to connect to a shared game board with obstacles and walk around. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3rGcEy7MA38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+The green dot is you and the red dots are the other players.
 
 [![Watch the demo](https://img.youtube.com/vi/3rGcEy7MA38/maxresdefault.jpg)](https://youtu.be/3rGcEy7MA38)
 
